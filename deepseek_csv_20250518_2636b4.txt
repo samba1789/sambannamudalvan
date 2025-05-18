@@ -1,0 +1,21 @@
+text,label
+"Scientists confirm climate change is accelerating, with 2023 being the hottest year on record",REAL
+"COVID-19 vaccines contain microchips to track people",FAKE
+"New study shows regular exercise can reduce risk of heart disease by 40%",REAL
+"Alien spacecraft spotted hovering over Pentagon, government confirms",FAKE
+"Federal Reserve raises interest rates by 0.25% to combat inflation",REAL
+"Drinking bleach can cure COVID-19, says secret government document",FAKE
+"NASA's Perseverance rover discovers ancient river delta on Mars",REAL
+"5G towers are causing birds to drop dead from the sky",FAKE
+"Global renewable energy capacity reaches record high in 2023",REAL
+"Celebrity couple secretly divorces after 10 years of marriage (no public sources confirm this)",FAKE
+"Researchers develop new battery technology that charges in 5 minutes",REAL
+"Secret elite group controlling world governments exposed by hacker",FAKE
+"WHO announces end of COVID-19 global health emergency",REAL
+"Vaccines cause autism, reveals leaked pharmaceutical documents",FAKE
+"Stock market reaches all-time high amid economic recovery",REAL
+"Government adding mind-control chemicals to tap water",FAKE
+"Breakthrough in quantum computing achieves quantum supremacy",REAL
+"Famous actor dead at 55 (actor is actually alive and well)",FAKE
+"New legislation passed to protect endangered species habitats",REAL
+"Earth will experience 15 days of darkness in December due to cosmic event",FAKE
